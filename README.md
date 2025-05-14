@@ -6,9 +6,9 @@
 - **Image Comparison**: Detects near-identical or altered images using perceptual hashing.
 - **CSV Export**: Saves the results of the plagiarism check in CSV format for further review and analysis.
 
-![Plagiarism Checker](https://via.placeholder.com/1200x400.png?text=Plagiarism+Checker+Tool)
 
-[Capture1](https://github.com/user-attachments/assets/a2bfd2b3-98c3-4ec6-a775-244bf8590094)
+
+![Capture1](https://github.com/user-attachments/assets/a2bfd2b3-98c3-4ec6-a775-244bf8590094)
 ![Capture2](https://github.com/user-attachments/assets/75f62146-1e12-4511-99fd-0653d66ca297)
 ## Features!
 
